@@ -2,7 +2,7 @@
 int main ()
 {
     printf("dhinesh");
-    printf("master code");
+    printf("frontend code");
 
 return 0;
 }
